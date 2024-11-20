@@ -1,0 +1,50 @@
+ID_ENDERECO,ID_USUARIO,LOGRADOURO,NUMERO,COMPLEMENTO,BAIRRO,CIDADE,ESTADO,CEP
+1,1,Rua PraÃ§a 828,894,Bloco C - Apto 1,Bairro Sul,Rio de Janeiro,MG,21897-5349
+2,2,Rua Avenida 534,955,Bloco C - Casa 2,Bairro Leste,Rio de Janeiro,RS,36475-3864
+3,3,Rua PraÃ§a 177,959,Bloco B - Apto 3,Bairro Norte,Rio de Janeiro,RJ,40349-7389
+4,4,Rua Rua 276,273,Bloco A - ComÃ©rcio 4,Bairro Sul,Rio de Janeiro,SP,82375-7672
+5,5,Rua Rua 864,752,Bloco B - ComÃ©rcio 5,Bairro Oeste,Curitiba,RJ,81093-3720
+6,6,Rua Avenida 531,74,Bloco C - Apto 6,Bairro Central,SÃ£o Paulo,RJ,16156-3071
+7,7,Rua PraÃ§a 709,927,Bloco C - Apto 7,Bairro Leste,Rio de Janeiro,MG,41761-6127
+8,8,Rua PraÃ§a 301,867,Bloco B - Casa 8,Bairro Central,Porto Alegre,MG,54195-7196
+9,9,Rua Avenida 488,55,Bloco B - Casa 9,Bairro Leste,Rio de Janeiro,MG,42000-6572
+10,10,Rua PraÃ§a 263,758,Bloco A - Apto 10,Bairro Norte,Belo Horizonte,RS,40022-9278
+11,11,Rua PraÃ§a 538,834,Bloco A - Apto 11,Bairro Oeste,Porto Alegre,PR,57409-9900
+12,12,Rua Rua 925,419,Bloco B - Casa 12,Bairro Leste,Porto Alegre,RJ,90222-3302
+13,13,Rua Rua 510,50,Bloco B - Apto 13,Bairro Leste,Curitiba,SP,77201-8460
+14,14,Rua Rua 117,976,Bloco A - ComÃ©rcio 14,Bairro Leste,Porto Alegre,SP,85646-3063
+15,15,Rua Avenida 120,517,Bloco C - Apto 15,Bairro Oeste,Porto Alegre,PR,17409-7437
+16,16,Rua PraÃ§a 358,543,Bloco A - Casa 16,Bairro Norte,Belo Horizonte,RJ,70448-4920
+17,17,Rua Rua 447,671,Bloco B - Apto 17,Bairro Central,SÃ£o Paulo,PR,47172-9959
+18,18,Rua PraÃ§a 909,996,Bloco C - ComÃ©rcio 18,Bairro Norte,Curitiba,MG,20824-3248
+19,19,Rua Rua 677,727,Bloco B - Apto 19,Bairro Norte,SÃ£o Paulo,SP,79655-8521
+20,20,Rua Avenida 766,879,Bloco B - Apto 20,Bairro Oeste,Porto Alegre,MG,48163-9045
+21,21,Rua Rua 628,430,Bloco A - Casa 21,Bairro Norte,Porto Alegre,PR,19475-1076
+22,22,Rua Rua 834,989,Bloco B - Casa 22,Bairro Central,Curitiba,RJ,94830-9741
+24,24,Rua PraÃ§a 505,593,Bloco C - ComÃ©rcio 24,Bairro Leste,SÃ£o Paulo,PR,25463-4109
+25,25,Rua PraÃ§a 400,335,Bloco C - Apto 25,Bairro Oeste,Belo Horizonte,SP,47377-4835
+26,26,Rua Avenida 158,254,Bloco C - Casa 26,Bairro Central,Porto Alegre,RJ,89278-4817
+27,27,Rua PraÃ§a 644,181,Bloco B - Casa 27,Bairro Sul,Rio de Janeiro,PR,96194-2684
+28,28,Rua PraÃ§a 302,316,Bloco B - Casa 28,Bairro Norte,SÃ£o Paulo,MG,51120-8003
+29,29,Rua PraÃ§a 143,387,Bloco A - Apto 29,Bairro Sul,Curitiba,RJ,36805-7096
+30,30,Rua Rua 531,265,Bloco A - ComÃ©rcio 30,Bairro Oeste,Belo Horizonte,RS,38246-3671
+31,31,Rua Rua 166,367,Bloco C - Apto 31,Bairro Oeste,Belo Horizonte,SP,85783-4650
+32,32,Rua PraÃ§a 547,121,Bloco C - ComÃ©rcio 32,Bairro Norte,Curitiba,SP,83197-9398
+33,33,Rua Rua 921,190,Bloco B - ComÃ©rcio 33,Bairro Norte,Porto Alegre,RS,43167-7927
+34,34,Rua PraÃ§a 843,535,Bloco A - Apto 34,Bairro Central,Curitiba,RS,67150-3697
+35,35,Rua Rua 960,821,Bloco C - ComÃ©rcio 35,Bairro Oeste,Belo Horizonte,MG,94764-2660
+36,36,Rua Rua 300,528,Bloco B - Apto 36,Bairro Central,Rio de Janeiro,RJ,82608-5989
+37,37,Rua Rua 962,776,Bloco A - Apto 37,Bairro Leste,Porto Alegre,PR,91916-8403
+38,38,Rua Rua 775,844,Bloco A - Casa 38,Bairro Oeste,Porto Alegre,SP,61430-2525
+39,39,Rua Avenida 745,425,Bloco C - ComÃ©rcio 39,Bairro Norte,Belo Horizonte,MG,38941-1074
+40,40,Rua Rua 859,803,Bloco C - ComÃ©rcio 40,Bairro Norte,Porto Alegre,RS,14792-8953
+41,41,Rua PraÃ§a 39,773,Bloco B - Apto 41,Bairro Oeste,Belo Horizonte,RJ,54898-9015
+42,42,Rua PraÃ§a 528,656,Bloco B - ComÃ©rcio 42,Bairro Norte,Porto Alegre,PR,11902-4690
+43,43,Rua Rua 541,494,Bloco A - Apto 43,Bairro Central,Porto Alegre,SP,87616-9985
+44,44,Rua Rua 133,281,Bloco A - Apto 44,Bairro Sul,Porto Alegre,RJ,31210-4913
+45,45,Rua Rua 887,776,Bloco C - Apto 45,Bairro Central,Curitiba,MG,64326-5662
+46,46,Rua PraÃ§a 3,673,Bloco B - ComÃ©rcio 46,Bairro Leste,Porto Alegre,PR,60433-5277
+47,47,Rua PraÃ§a 911,40,Bloco B - Casa 47,Bairro Leste,Curitiba,PR,78857-5763
+48,48,Rua Rua 199,254,Bloco C - ComÃ©rcio 48,Bairro Central,Curitiba,PR,61443-6418
+49,49,Rua PraÃ§a 208,576,Bloco B - ComÃ©rcio 49,Bairro Sul,SÃ£o Paulo,SP,70986-9642
+50,50,Rua Avenida 421,53,Bloco B - Casa 50,Bairro Oeste,Porto Alegre,SP,92047-2576

@@ -1,0 +1,50 @@
+ID_ELETRODOMESTICO,ID_COMODO,NOME_ELETRODOMESTICO,POTENCIA_WATTS,HORAS_USO_DIA,DESCRICAO
+1,1,Ar-condicionado,1662,1,EletrodomÃ©stico 1 - usado
+2,2,LÃ¢mpada,2850,7,EletrodomÃ©stico 2 - usado
+3,3,FogÃ£o,900,5,EletrodomÃ©stico 3 - novo
+4,4,TV,1152,2,EletrodomÃ©stico 4 - de Ãºltima geraÃ§Ã£o
+5,5,Geladeira,1427,7,EletrodomÃ©stico 5 - usado
+6,6,Microondas,2651,9,EletrodomÃ©stico 6 - de Ãºltima geraÃ§Ã£o
+7,7,Ar-condicionado,2257,1,EletrodomÃ©stico 7 - usado
+8,8,Secador de cabelo,1219,1,EletrodomÃ©stico 8 - de Ãºltima geraÃ§Ã£o
+9,9,TV,1764,4,EletrodomÃ©stico 9 - de Ãºltima geraÃ§Ã£o
+10,10,LÃ¢mpada,2090,1,EletrodomÃ©stico 10 - novo
+11,11,Ar-condicionado,1831,4,EletrodomÃ©stico 11 - de Ãºltima geraÃ§Ã£o
+12,12,LÃ¢mpada,2610,7,EletrodomÃ©stico 12 - de Ãºltima geraÃ§Ã£o
+13,13,LÃ¢mpada,630,1,EletrodomÃ©stico 13 - de Ãºltima geraÃ§Ã£o
+14,14,Secador de cabelo,698,2,EletrodomÃ©stico 14 - novo
+15,15,Ventilador,2234,9,EletrodomÃ©stico 15 - de Ãºltima geraÃ§Ã£o
+16,16,Ventilador,2224,5,EletrodomÃ©stico 16 - de Ãºltima geraÃ§Ã£o
+17,17,LÃ¢mpada,1667,10,EletrodomÃ©stico 17 - novo
+18,18,Geladeira,2343,4,EletrodomÃ©stico 18 - usado
+19,19,LÃ¢mpada,2850,2,EletrodomÃ©stico 19 - usado
+20,20,LÃ¢mpada,1074,1,EletrodomÃ©stico 20 - usado
+21,21,Ar-condicionado,682,3,EletrodomÃ©stico 21 - novo
+22,22,Home Theater,2189,3,EletrodomÃ©stico 22 - usado
+24,24,FogÃ£o,2927,8,EletrodomÃ©stico 24 - de Ãºltima geraÃ§Ã£o
+25,25,FogÃ£o,2870,5,EletrodomÃ©stico 25 - novo
+26,26,Ventilador,774,2,EletrodomÃ©stico 26 - de Ãºltima geraÃ§Ã£o
+27,27,LÃ¢mpada,1680,1,EletrodomÃ©stico 27 - usado
+28,28,Ar-condicionado,1473,1,EletrodomÃ©stico 28 - de Ãºltima geraÃ§Ã£o
+29,29,LÃ¢mpada,1485,3,EletrodomÃ©stico 29 - novo
+30,30,Ventilador,1648,3,EletrodomÃ©stico 30 - usado
+31,31,Ar-condicionado,1701,9,EletrodomÃ©stico 31 - de Ãºltima geraÃ§Ã£o
+32,32,Ventilador,2696,6,EletrodomÃ©stico 32 - usado
+33,33,Ventilador,1350,7,EletrodomÃ©stico 33 - de Ãºltima geraÃ§Ã£o
+34,34,Ventilador,916,1,EletrodomÃ©stico 34 - novo
+35,35,Ar-condicionado,1190,2,EletrodomÃ©stico 35 - usado
+36,36,Ar-condicionado,953,9,EletrodomÃ©stico 36 - de Ãºltima geraÃ§Ã£o
+37,37,Home Theater,1595,5,EletrodomÃ©stico 37 - de Ãºltima geraÃ§Ã£o
+38,38,Ar-condicionado,1427,4,EletrodomÃ©stico 38 - de Ãºltima geraÃ§Ã£o
+39,39,Secador de cabelo,2031,10,EletrodomÃ©stico 39 - de Ãºltima geraÃ§Ã£o
+40,40,Ventilador,685,10,EletrodomÃ©stico 40 - usado
+41,41,Ventilador,2081,10,EletrodomÃ©stico 41 - de Ãºltima geraÃ§Ã£o
+42,42,LÃ¢mpada,1796,4,EletrodomÃ©stico 42 - usado
+43,43,TV,1229,6,EletrodomÃ©stico 43 - usado
+44,44,LÃ¢mpada,2082,6,EletrodomÃ©stico 44 - novo
+45,45,Ventilador,2293,2,EletrodomÃ©stico 45 - usado
+46,46,LÃ¢mpada,2585,3,EletrodomÃ©stico 46 - de Ãºltima geraÃ§Ã£o
+47,47,Geladeira,729,7,EletrodomÃ©stico 47 - de Ãºltima geraÃ§Ã£o
+48,48,Geladeira,2112,4,EletrodomÃ©stico 48 - usado
+49,49,LÃ¢mpada,1757,8,EletrodomÃ©stico 49 - novo
+50,50,LÃ¢mpada,666,10,EletrodomÃ©stico 50 - de Ãºltima geraÃ§Ã£o

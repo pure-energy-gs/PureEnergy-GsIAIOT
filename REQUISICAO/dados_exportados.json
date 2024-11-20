@@ -1,0 +1,2351 @@
+{
+    "T_PE_USUARIOS": [
+        {
+            "ID_USUARIO": 1,
+            "NOME": "Ana",
+            "EMAIL": "ana@exemplo.com",
+            "SENHA": "senha3"
+        },
+        {
+            "ID_USUARIO": 2,
+            "NOME": "Carlos",
+            "EMAIL": "carlos@exemplo.com",
+            "SENHA": "senha6"
+        },
+        {
+            "ID_USUARIO": 3,
+            "NOME": "Fernanda",
+            "EMAIL": "fernanda@exemplo.com",
+            "SENHA": "senha9"
+        },
+        {
+            "ID_USUARIO": 4,
+            "NOME": "João",
+            "EMAIL": "joão@exemplo.com",
+            "SENHA": "senha12"
+        },
+        {
+            "ID_USUARIO": 5,
+            "NOME": "Larissa",
+            "EMAIL": "larissa@exemplo.com",
+            "SENHA": "senha15"
+        },
+        {
+            "ID_USUARIO": 6,
+            "NOME": "Marcelo",
+            "EMAIL": "marcelo@exemplo.com",
+            "SENHA": "senha18"
+        },
+        {
+            "ID_USUARIO": 7,
+            "NOME": "Patricia",
+            "EMAIL": "patricia@exemplo.com",
+            "SENHA": "senha21"
+        },
+        {
+            "ID_USUARIO": 8,
+            "NOME": "Ricardo",
+            "EMAIL": "ricardo@exemplo.com",
+            "SENHA": "senha24"
+        },
+        {
+            "ID_USUARIO": 9,
+            "NOME": "Vanessa",
+            "EMAIL": "vanessa@exemplo.com",
+            "SENHA": "senha27"
+        },
+        {
+            "ID_USUARIO": 10,
+            "NOME": "Gustavo",
+            "EMAIL": "gustavo@exemplo.com",
+            "SENHA": "senha30"
+        },
+        {
+            "ID_USUARIO": 11,
+            "NOME": "Pedro",
+            "EMAIL": "pedro@exemplo.com",
+            "SENHA": "senha33"
+        },
+        {
+            "ID_USUARIO": 12,
+            "NOME": "Luiza",
+            "EMAIL": "luiza@exemplo.com",
+            "SENHA": "senha36"
+        },
+        {
+            "ID_USUARIO": 13,
+            "NOME": "Rafael",
+            "EMAIL": "rafael@exemplo.com",
+            "SENHA": "senha39"
+        },
+        {
+            "ID_USUARIO": 14,
+            "NOME": "Marcela",
+            "EMAIL": "marcela@exemplo.com",
+            "SENHA": "senha42"
+        },
+        {
+            "ID_USUARIO": 15,
+            "NOME": "Vitor",
+            "EMAIL": "vitor@exemplo.com",
+            "SENHA": "senha45"
+        },
+        {
+            "ID_USUARIO": 16,
+            "NOME": "Paula",
+            "EMAIL": "paula@exemplo.com",
+            "SENHA": "senha48"
+        },
+        {
+            "ID_USUARIO": 17,
+            "NOME": "Felipe",
+            "EMAIL": "felipe@exemplo.com",
+            "SENHA": "senha51"
+        },
+        {
+            "ID_USUARIO": 18,
+            "NOME": "Isabela",
+            "EMAIL": "isabela@exemplo.com",
+            "SENHA": "senha54"
+        },
+        {
+            "ID_USUARIO": 19,
+            "NOME": "Danilo",
+            "EMAIL": "danilo@exemplo.com",
+            "SENHA": "senha57"
+        },
+        {
+            "ID_USUARIO": 20,
+            "NOME": "Marta",
+            "EMAIL": "marta@exemplo.com",
+            "SENHA": "senha60"
+        },
+        {
+            "ID_USUARIO": 21,
+            "NOME": "Roberto",
+            "EMAIL": "roberto@exemplo.com",
+            "SENHA": "senha63"
+        },
+        {
+            "ID_USUARIO": 22,
+            "NOME": "Simone",
+            "EMAIL": "simone@exemplo.com",
+            "SENHA": "senha66"
+        },
+        {
+            "ID_USUARIO": 24,
+            "NOME": "Bárbara",
+            "EMAIL": "bárbara@exemplo.com",
+            "SENHA": "senha72"
+        },
+        {
+            "ID_USUARIO": 25,
+            "NOME": "Thiago",
+            "EMAIL": "thiago@exemplo.com",
+            "SENHA": "senha75"
+        },
+        {
+            "ID_USUARIO": 26,
+            "NOME": "Jéssica",
+            "EMAIL": "jéssica@exemplo.com",
+            "SENHA": "senha78"
+        },
+        {
+            "ID_USUARIO": 27,
+            "NOME": "Eduardo",
+            "EMAIL": "eduardo@exemplo.com",
+            "SENHA": "senha81"
+        },
+        {
+            "ID_USUARIO": 28,
+            "NOME": "Mariana",
+            "EMAIL": "mariana@exemplo.com",
+            "SENHA": "senha84"
+        },
+        {
+            "ID_USUARIO": 29,
+            "NOME": "André",
+            "EMAIL": "andré@exemplo.com",
+            "SENHA": "senha87"
+        },
+        {
+            "ID_USUARIO": 30,
+            "NOME": "Tatiane",
+            "EMAIL": "tatiane@exemplo.com",
+            "SENHA": "senha90"
+        },
+        {
+            "ID_USUARIO": 31,
+            "NOME": "Bruna",
+            "EMAIL": "bruna@exemplo.com",
+            "SENHA": "senha93"
+        },
+        {
+            "ID_USUARIO": 32,
+            "NOME": "Carla",
+            "EMAIL": "carla@exemplo.com",
+            "SENHA": "senha96"
+        },
+        {
+            "ID_USUARIO": 33,
+            "NOME": "Tiago",
+            "EMAIL": "tiago@exemplo.com",
+            "SENHA": "senha99"
+        },
+        {
+            "ID_USUARIO": 34,
+            "NOME": "Lúcio",
+            "EMAIL": "lúcio@exemplo.com",
+            "SENHA": "senha102"
+        },
+        {
+            "ID_USUARIO": 35,
+            "NOME": "Aline",
+            "EMAIL": "aline@exemplo.com",
+            "SENHA": "senha105"
+        },
+        {
+            "ID_USUARIO": 36,
+            "NOME": "Cristiano",
+            "EMAIL": "cristiano@exemplo.com",
+            "SENHA": "senha108"
+        },
+        {
+            "ID_USUARIO": 37,
+            "NOME": "Sabrina",
+            "EMAIL": "sabrina@exemplo.com",
+            "SENHA": "senha111"
+        },
+        {
+            "ID_USUARIO": 38,
+            "NOME": "Victor",
+            "EMAIL": "victor@exemplo.com",
+            "SENHA": "senha114"
+        },
+        {
+            "ID_USUARIO": 39,
+            "NOME": "Débora",
+            "EMAIL": "débora@exemplo.com",
+            "SENHA": "senha117"
+        },
+        {
+            "ID_USUARIO": 40,
+            "NOME": "José",
+            "EMAIL": "josé@exemplo.com",
+            "SENHA": "senha120"
+        },
+        {
+            "ID_USUARIO": 41,
+            "NOME": "Lúcia",
+            "EMAIL": "lúcia@exemplo.com",
+            "SENHA": "senha123"
+        },
+        {
+            "ID_USUARIO": 42,
+            "NOME": "Rogério",
+            "EMAIL": "rogério@exemplo.com",
+            "SENHA": "senha126"
+        },
+        {
+            "ID_USUARIO": 43,
+            "NOME": "Daniela",
+            "EMAIL": "daniela@exemplo.com",
+            "SENHA": "senha129"
+        },
+        {
+            "ID_USUARIO": 44,
+            "NOME": "Anderson",
+            "EMAIL": "anderson@exemplo.com",
+            "SENHA": "senha132"
+        },
+        {
+            "ID_USUARIO": 45,
+            "NOME": "Cristiane",
+            "EMAIL": "cristiane@exemplo.com",
+            "SENHA": "senha135"
+        },
+        {
+            "ID_USUARIO": 46,
+            "NOME": "César",
+            "EMAIL": "césar@exemplo.com",
+            "SENHA": "senha138"
+        },
+        {
+            "ID_USUARIO": 47,
+            "NOME": "Natália",
+            "EMAIL": "natália@exemplo.com",
+            "SENHA": "senha141"
+        },
+        {
+            "ID_USUARIO": 48,
+            "NOME": "Rui",
+            "EMAIL": "rui@exemplo.com",
+            "SENHA": "senha144"
+        },
+        {
+            "ID_USUARIO": 49,
+            "NOME": "Cláudia",
+            "EMAIL": "cláudia@exemplo.com",
+            "SENHA": "senha147"
+        },
+        {
+            "ID_USUARIO": 50,
+            "NOME": "Alfredo",
+            "EMAIL": "alfredo@exemplo.com",
+            "SENHA": "senha150"
+        }
+    ],
+    "T_PE_ENDERECOS": [
+        {
+            "ID_ENDERECO": 1,
+            "ID_USUARIO": 1,
+            "LOGRADOURO": "Rua Praça 828",
+            "NUMERO": "894",
+            "COMPLEMENTO": "Bloco C - Apto 1",
+            "BAIRRO": "Bairro Sul",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "MG",
+            "CEP": "21897-5349"
+        },
+        {
+            "ID_ENDERECO": 2,
+            "ID_USUARIO": 2,
+            "LOGRADOURO": "Rua Avenida 534",
+            "NUMERO": "955",
+            "COMPLEMENTO": "Bloco C - Casa 2",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "RS",
+            "CEP": "36475-3864"
+        },
+        {
+            "ID_ENDERECO": 3,
+            "ID_USUARIO": 3,
+            "LOGRADOURO": "Rua Praça 177",
+            "NUMERO": "959",
+            "COMPLEMENTO": "Bloco B - Apto 3",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "RJ",
+            "CEP": "40349-7389"
+        },
+        {
+            "ID_ENDERECO": 4,
+            "ID_USUARIO": 4,
+            "LOGRADOURO": "Rua Rua 276",
+            "NUMERO": "273",
+            "COMPLEMENTO": "Bloco A - Comércio 4",
+            "BAIRRO": "Bairro Sul",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "SP",
+            "CEP": "82375-7672"
+        },
+        {
+            "ID_ENDERECO": 5,
+            "ID_USUARIO": 5,
+            "LOGRADOURO": "Rua Rua 864",
+            "NUMERO": "752",
+            "COMPLEMENTO": "Bloco B - Comércio 5",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Curitiba",
+            "ESTADO": "RJ",
+            "CEP": "81093-3720"
+        },
+        {
+            "ID_ENDERECO": 6,
+            "ID_USUARIO": 6,
+            "LOGRADOURO": "Rua Avenida 531",
+            "NUMERO": "74",
+            "COMPLEMENTO": "Bloco C - Apto 6",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "São Paulo",
+            "ESTADO": "RJ",
+            "CEP": "16156-3071"
+        },
+        {
+            "ID_ENDERECO": 7,
+            "ID_USUARIO": 7,
+            "LOGRADOURO": "Rua Praça 709",
+            "NUMERO": "927",
+            "COMPLEMENTO": "Bloco C - Apto 7",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "MG",
+            "CEP": "41761-6127"
+        },
+        {
+            "ID_ENDERECO": 8,
+            "ID_USUARIO": 8,
+            "LOGRADOURO": "Rua Praça 301",
+            "NUMERO": "867",
+            "COMPLEMENTO": "Bloco B - Casa 8",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "MG",
+            "CEP": "54195-7196"
+        },
+        {
+            "ID_ENDERECO": 9,
+            "ID_USUARIO": 9,
+            "LOGRADOURO": "Rua Avenida 488",
+            "NUMERO": "55",
+            "COMPLEMENTO": "Bloco B - Casa 9",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "MG",
+            "CEP": "42000-6572"
+        },
+        {
+            "ID_ENDERECO": 10,
+            "ID_USUARIO": 10,
+            "LOGRADOURO": "Rua Praça 263",
+            "NUMERO": "758",
+            "COMPLEMENTO": "Bloco A - Apto 10",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "RS",
+            "CEP": "40022-9278"
+        },
+        {
+            "ID_ENDERECO": 11,
+            "ID_USUARIO": 11,
+            "LOGRADOURO": "Rua Praça 538",
+            "NUMERO": "834",
+            "COMPLEMENTO": "Bloco A - Apto 11",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "PR",
+            "CEP": "57409-9900"
+        },
+        {
+            "ID_ENDERECO": 12,
+            "ID_USUARIO": 12,
+            "LOGRADOURO": "Rua Rua 925",
+            "NUMERO": "419",
+            "COMPLEMENTO": "Bloco B - Casa 12",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "RJ",
+            "CEP": "90222-3302"
+        },
+        {
+            "ID_ENDERECO": 13,
+            "ID_USUARIO": 13,
+            "LOGRADOURO": "Rua Rua 510",
+            "NUMERO": "50",
+            "COMPLEMENTO": "Bloco B - Apto 13",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Curitiba",
+            "ESTADO": "SP",
+            "CEP": "77201-8460"
+        },
+        {
+            "ID_ENDERECO": 14,
+            "ID_USUARIO": 14,
+            "LOGRADOURO": "Rua Rua 117",
+            "NUMERO": "976",
+            "COMPLEMENTO": "Bloco A - Comércio 14",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "SP",
+            "CEP": "85646-3063"
+        },
+        {
+            "ID_ENDERECO": 15,
+            "ID_USUARIO": 15,
+            "LOGRADOURO": "Rua Avenida 120",
+            "NUMERO": "517",
+            "COMPLEMENTO": "Bloco C - Apto 15",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "PR",
+            "CEP": "17409-7437"
+        },
+        {
+            "ID_ENDERECO": 16,
+            "ID_USUARIO": 16,
+            "LOGRADOURO": "Rua Praça 358",
+            "NUMERO": "543",
+            "COMPLEMENTO": "Bloco A - Casa 16",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "RJ",
+            "CEP": "70448-4920"
+        },
+        {
+            "ID_ENDERECO": 17,
+            "ID_USUARIO": 17,
+            "LOGRADOURO": "Rua Rua 447",
+            "NUMERO": "671",
+            "COMPLEMENTO": "Bloco B - Apto 17",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "São Paulo",
+            "ESTADO": "PR",
+            "CEP": "47172-9959"
+        },
+        {
+            "ID_ENDERECO": 18,
+            "ID_USUARIO": 18,
+            "LOGRADOURO": "Rua Praça 909",
+            "NUMERO": "996",
+            "COMPLEMENTO": "Bloco C - Comércio 18",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Curitiba",
+            "ESTADO": "MG",
+            "CEP": "20824-3248"
+        },
+        {
+            "ID_ENDERECO": 19,
+            "ID_USUARIO": 19,
+            "LOGRADOURO": "Rua Rua 677",
+            "NUMERO": "727",
+            "COMPLEMENTO": "Bloco B - Apto 19",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "São Paulo",
+            "ESTADO": "SP",
+            "CEP": "79655-8521"
+        },
+        {
+            "ID_ENDERECO": 20,
+            "ID_USUARIO": 20,
+            "LOGRADOURO": "Rua Avenida 766",
+            "NUMERO": "879",
+            "COMPLEMENTO": "Bloco B - Apto 20",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "MG",
+            "CEP": "48163-9045"
+        },
+        {
+            "ID_ENDERECO": 21,
+            "ID_USUARIO": 21,
+            "LOGRADOURO": "Rua Rua 628",
+            "NUMERO": "430",
+            "COMPLEMENTO": "Bloco A - Casa 21",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "PR",
+            "CEP": "19475-1076"
+        },
+        {
+            "ID_ENDERECO": 22,
+            "ID_USUARIO": 22,
+            "LOGRADOURO": "Rua Rua 834",
+            "NUMERO": "989",
+            "COMPLEMENTO": "Bloco B - Casa 22",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Curitiba",
+            "ESTADO": "RJ",
+            "CEP": "94830-9741"
+        },
+        {
+            "ID_ENDERECO": 24,
+            "ID_USUARIO": 24,
+            "LOGRADOURO": "Rua Praça 505",
+            "NUMERO": "593",
+            "COMPLEMENTO": "Bloco C - Comércio 24",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "São Paulo",
+            "ESTADO": "PR",
+            "CEP": "25463-4109"
+        },
+        {
+            "ID_ENDERECO": 25,
+            "ID_USUARIO": 25,
+            "LOGRADOURO": "Rua Praça 400",
+            "NUMERO": "335",
+            "COMPLEMENTO": "Bloco C - Apto 25",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "SP",
+            "CEP": "47377-4835"
+        },
+        {
+            "ID_ENDERECO": 26,
+            "ID_USUARIO": 26,
+            "LOGRADOURO": "Rua Avenida 158",
+            "NUMERO": "254",
+            "COMPLEMENTO": "Bloco C - Casa 26",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "RJ",
+            "CEP": "89278-4817"
+        },
+        {
+            "ID_ENDERECO": 27,
+            "ID_USUARIO": 27,
+            "LOGRADOURO": "Rua Praça 644",
+            "NUMERO": "181",
+            "COMPLEMENTO": "Bloco B - Casa 27",
+            "BAIRRO": "Bairro Sul",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "PR",
+            "CEP": "96194-2684"
+        },
+        {
+            "ID_ENDERECO": 28,
+            "ID_USUARIO": 28,
+            "LOGRADOURO": "Rua Praça 302",
+            "NUMERO": "316",
+            "COMPLEMENTO": "Bloco B - Casa 28",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "São Paulo",
+            "ESTADO": "MG",
+            "CEP": "51120-8003"
+        },
+        {
+            "ID_ENDERECO": 29,
+            "ID_USUARIO": 29,
+            "LOGRADOURO": "Rua Praça 143",
+            "NUMERO": "387",
+            "COMPLEMENTO": "Bloco A - Apto 29",
+            "BAIRRO": "Bairro Sul",
+            "CIDADE": "Curitiba",
+            "ESTADO": "RJ",
+            "CEP": "36805-7096"
+        },
+        {
+            "ID_ENDERECO": 30,
+            "ID_USUARIO": 30,
+            "LOGRADOURO": "Rua Rua 531",
+            "NUMERO": "265",
+            "COMPLEMENTO": "Bloco A - Comércio 30",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "RS",
+            "CEP": "38246-3671"
+        },
+        {
+            "ID_ENDERECO": 31,
+            "ID_USUARIO": 31,
+            "LOGRADOURO": "Rua Rua 166",
+            "NUMERO": "367",
+            "COMPLEMENTO": "Bloco C - Apto 31",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "SP",
+            "CEP": "85783-4650"
+        },
+        {
+            "ID_ENDERECO": 32,
+            "ID_USUARIO": 32,
+            "LOGRADOURO": "Rua Praça 547",
+            "NUMERO": "121",
+            "COMPLEMENTO": "Bloco C - Comércio 32",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Curitiba",
+            "ESTADO": "SP",
+            "CEP": "83197-9398"
+        },
+        {
+            "ID_ENDERECO": 33,
+            "ID_USUARIO": 33,
+            "LOGRADOURO": "Rua Rua 921",
+            "NUMERO": "190",
+            "COMPLEMENTO": "Bloco B - Comércio 33",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "RS",
+            "CEP": "43167-7927"
+        },
+        {
+            "ID_ENDERECO": 34,
+            "ID_USUARIO": 34,
+            "LOGRADOURO": "Rua Praça 843",
+            "NUMERO": "535",
+            "COMPLEMENTO": "Bloco A - Apto 34",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Curitiba",
+            "ESTADO": "RS",
+            "CEP": "67150-3697"
+        },
+        {
+            "ID_ENDERECO": 35,
+            "ID_USUARIO": 35,
+            "LOGRADOURO": "Rua Rua 960",
+            "NUMERO": "821",
+            "COMPLEMENTO": "Bloco C - Comércio 35",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "MG",
+            "CEP": "94764-2660"
+        },
+        {
+            "ID_ENDERECO": 36,
+            "ID_USUARIO": 36,
+            "LOGRADOURO": "Rua Rua 300",
+            "NUMERO": "528",
+            "COMPLEMENTO": "Bloco B - Apto 36",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Rio de Janeiro",
+            "ESTADO": "RJ",
+            "CEP": "82608-5989"
+        },
+        {
+            "ID_ENDERECO": 37,
+            "ID_USUARIO": 37,
+            "LOGRADOURO": "Rua Rua 962",
+            "NUMERO": "776",
+            "COMPLEMENTO": "Bloco A - Apto 37",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "PR",
+            "CEP": "91916-8403"
+        },
+        {
+            "ID_ENDERECO": 38,
+            "ID_USUARIO": 38,
+            "LOGRADOURO": "Rua Rua 775",
+            "NUMERO": "844",
+            "COMPLEMENTO": "Bloco A - Casa 38",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "SP",
+            "CEP": "61430-2525"
+        },
+        {
+            "ID_ENDERECO": 39,
+            "ID_USUARIO": 39,
+            "LOGRADOURO": "Rua Avenida 745",
+            "NUMERO": "425",
+            "COMPLEMENTO": "Bloco C - Comércio 39",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "MG",
+            "CEP": "38941-1074"
+        },
+        {
+            "ID_ENDERECO": 40,
+            "ID_USUARIO": 40,
+            "LOGRADOURO": "Rua Rua 859",
+            "NUMERO": "803",
+            "COMPLEMENTO": "Bloco C - Comércio 40",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "RS",
+            "CEP": "14792-8953"
+        },
+        {
+            "ID_ENDERECO": 41,
+            "ID_USUARIO": 41,
+            "LOGRADOURO": "Rua Praça 39",
+            "NUMERO": "773",
+            "COMPLEMENTO": "Bloco B - Apto 41",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Belo Horizonte",
+            "ESTADO": "RJ",
+            "CEP": "54898-9015"
+        },
+        {
+            "ID_ENDERECO": 42,
+            "ID_USUARIO": 42,
+            "LOGRADOURO": "Rua Praça 528",
+            "NUMERO": "656",
+            "COMPLEMENTO": "Bloco B - Comércio 42",
+            "BAIRRO": "Bairro Norte",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "PR",
+            "CEP": "11902-4690"
+        },
+        {
+            "ID_ENDERECO": 43,
+            "ID_USUARIO": 43,
+            "LOGRADOURO": "Rua Rua 541",
+            "NUMERO": "494",
+            "COMPLEMENTO": "Bloco A - Apto 43",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "SP",
+            "CEP": "87616-9985"
+        },
+        {
+            "ID_ENDERECO": 44,
+            "ID_USUARIO": 44,
+            "LOGRADOURO": "Rua Rua 133",
+            "NUMERO": "281",
+            "COMPLEMENTO": "Bloco A - Apto 44",
+            "BAIRRO": "Bairro Sul",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "RJ",
+            "CEP": "31210-4913"
+        },
+        {
+            "ID_ENDERECO": 45,
+            "ID_USUARIO": 45,
+            "LOGRADOURO": "Rua Rua 887",
+            "NUMERO": "776",
+            "COMPLEMENTO": "Bloco C - Apto 45",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Curitiba",
+            "ESTADO": "MG",
+            "CEP": "64326-5662"
+        },
+        {
+            "ID_ENDERECO": 46,
+            "ID_USUARIO": 46,
+            "LOGRADOURO": "Rua Praça 3",
+            "NUMERO": "673",
+            "COMPLEMENTO": "Bloco B - Comércio 46",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "PR",
+            "CEP": "60433-5277"
+        },
+        {
+            "ID_ENDERECO": 47,
+            "ID_USUARIO": 47,
+            "LOGRADOURO": "Rua Praça 911",
+            "NUMERO": "40",
+            "COMPLEMENTO": "Bloco B - Casa 47",
+            "BAIRRO": "Bairro Leste",
+            "CIDADE": "Curitiba",
+            "ESTADO": "PR",
+            "CEP": "78857-5763"
+        },
+        {
+            "ID_ENDERECO": 48,
+            "ID_USUARIO": 48,
+            "LOGRADOURO": "Rua Rua 199",
+            "NUMERO": "254",
+            "COMPLEMENTO": "Bloco C - Comércio 48",
+            "BAIRRO": "Bairro Central",
+            "CIDADE": "Curitiba",
+            "ESTADO": "PR",
+            "CEP": "61443-6418"
+        },
+        {
+            "ID_ENDERECO": 49,
+            "ID_USUARIO": 49,
+            "LOGRADOURO": "Rua Praça 208",
+            "NUMERO": "576",
+            "COMPLEMENTO": "Bloco B - Comércio 49",
+            "BAIRRO": "Bairro Sul",
+            "CIDADE": "São Paulo",
+            "ESTADO": "SP",
+            "CEP": "70986-9642"
+        },
+        {
+            "ID_ENDERECO": 50,
+            "ID_USUARIO": 50,
+            "LOGRADOURO": "Rua Avenida 421",
+            "NUMERO": "53",
+            "COMPLEMENTO": "Bloco B - Casa 50",
+            "BAIRRO": "Bairro Oeste",
+            "CIDADE": "Porto Alegre",
+            "ESTADO": "SP",
+            "CEP": "92047-2576"
+        }
+    ],
+    "T_PE_RESIDENCIAS": [
+        {
+            "ID_RESIDENCIA": 1,
+            "ID_USUARIO": 1,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 2,
+            "ID_USUARIO": 2,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 3,
+            "ID_USUARIO": 3,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 4
+        },
+        {
+            "ID_RESIDENCIA": 4,
+            "ID_USUARIO": 4,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 5,
+            "ID_USUARIO": 5,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 5
+        },
+        {
+            "ID_RESIDENCIA": 6,
+            "ID_USUARIO": 6,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 5
+        },
+        {
+            "ID_RESIDENCIA": 7,
+            "ID_USUARIO": 7,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 8,
+            "ID_USUARIO": 8,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 9,
+            "ID_USUARIO": 9,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 10,
+            "ID_USUARIO": 10,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 11,
+            "ID_USUARIO": 11,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 12,
+            "ID_USUARIO": 12,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 4
+        },
+        {
+            "ID_RESIDENCIA": 13,
+            "ID_USUARIO": 13,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 14,
+            "ID_USUARIO": 14,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 15,
+            "ID_USUARIO": 15,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 16,
+            "ID_USUARIO": 16,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 17,
+            "ID_USUARIO": 17,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 18,
+            "ID_USUARIO": 18,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 19,
+            "ID_USUARIO": 19,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 20,
+            "ID_USUARIO": 20,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 21,
+            "ID_USUARIO": 21,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 22,
+            "ID_USUARIO": 22,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 24,
+            "ID_USUARIO": 24,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 25,
+            "ID_USUARIO": 25,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 4
+        },
+        {
+            "ID_RESIDENCIA": 26,
+            "ID_USUARIO": 26,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 27,
+            "ID_USUARIO": 27,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 5
+        },
+        {
+            "ID_RESIDENCIA": 28,
+            "ID_USUARIO": 28,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 29,
+            "ID_USUARIO": 29,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 30,
+            "ID_USUARIO": 30,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 31,
+            "ID_USUARIO": 31,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 5
+        },
+        {
+            "ID_RESIDENCIA": 32,
+            "ID_USUARIO": 32,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 33,
+            "ID_USUARIO": 33,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 5
+        },
+        {
+            "ID_RESIDENCIA": 34,
+            "ID_USUARIO": 34,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 35,
+            "ID_USUARIO": 35,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 3
+        },
+        {
+            "ID_RESIDENCIA": 36,
+            "ID_USUARIO": 36,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 4
+        },
+        {
+            "ID_RESIDENCIA": 37,
+            "ID_USUARIO": 37,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 38,
+            "ID_USUARIO": 38,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 5
+        },
+        {
+            "ID_RESIDENCIA": 39,
+            "ID_USUARIO": 39,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 1
+        },
+        {
+            "ID_RESIDENCIA": 40,
+            "ID_USUARIO": 40,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 4
+        },
+        {
+            "ID_RESIDENCIA": 41,
+            "ID_USUARIO": 41,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 42,
+            "ID_USUARIO": 42,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 5
+        },
+        {
+            "ID_RESIDENCIA": 43,
+            "ID_USUARIO": 43,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 4
+        },
+        {
+            "ID_RESIDENCIA": 44,
+            "ID_USUARIO": 44,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 45,
+            "ID_USUARIO": 45,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 46,
+            "ID_USUARIO": 46,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 47,
+            "ID_USUARIO": 47,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 6
+        },
+        {
+            "ID_RESIDENCIA": 48,
+            "ID_USUARIO": 48,
+            "TIPO_RESIDENCIA": "Casa",
+            "QUANTIDADE_PESSOAS": 4
+        },
+        {
+            "ID_RESIDENCIA": 49,
+            "ID_USUARIO": 49,
+            "TIPO_RESIDENCIA": "Chácara",
+            "QUANTIDADE_PESSOAS": 2
+        },
+        {
+            "ID_RESIDENCIA": 50,
+            "ID_USUARIO": 50,
+            "TIPO_RESIDENCIA": "Apartamento",
+            "QUANTIDADE_PESSOAS": 5
+        }
+    ],
+    "T_PE_COMODOS": [
+        {
+            "ID_COMODO": 1,
+            "ID_USUARIO": 1,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 1 - arejado"
+        },
+        {
+            "ID_COMODO": 2,
+            "ID_USUARIO": 2,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 2 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 3,
+            "ID_USUARIO": 3,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 3 - arejado"
+        },
+        {
+            "ID_COMODO": 4,
+            "ID_USUARIO": 4,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 4 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 5,
+            "ID_USUARIO": 5,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 5 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 6,
+            "ID_USUARIO": 6,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 6 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 7,
+            "ID_USUARIO": 7,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 7 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 8,
+            "ID_USUARIO": 8,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 8 - arejado"
+        },
+        {
+            "ID_COMODO": 9,
+            "ID_USUARIO": 9,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 9 - arejado"
+        },
+        {
+            "ID_COMODO": 10,
+            "ID_USUARIO": 10,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 10 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 11,
+            "ID_USUARIO": 11,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 11 - reformado"
+        },
+        {
+            "ID_COMODO": 12,
+            "ID_USUARIO": 12,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 12 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 13,
+            "ID_USUARIO": 13,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 13 - reformado"
+        },
+        {
+            "ID_COMODO": 14,
+            "ID_USUARIO": 14,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 14 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 15,
+            "ID_USUARIO": 15,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 15 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 16,
+            "ID_USUARIO": 16,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 16 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 17,
+            "ID_USUARIO": 17,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 17 - arejado"
+        },
+        {
+            "ID_COMODO": 18,
+            "ID_USUARIO": 18,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 18 - arejado"
+        },
+        {
+            "ID_COMODO": 19,
+            "ID_USUARIO": 19,
+            "NOME_COMODO": "Banheiro",
+            "DESCRICAO": "Cômodo 19 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 20,
+            "ID_USUARIO": 20,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 20 - arejado"
+        },
+        {
+            "ID_COMODO": 21,
+            "ID_USUARIO": 21,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 21 - reformado"
+        },
+        {
+            "ID_COMODO": 22,
+            "ID_USUARIO": 22,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 22 - arejado"
+        },
+        {
+            "ID_COMODO": 24,
+            "ID_USUARIO": 24,
+            "NOME_COMODO": "Banheiro",
+            "DESCRICAO": "Cômodo 24 - arejado"
+        },
+        {
+            "ID_COMODO": 25,
+            "ID_USUARIO": 25,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 25 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 26,
+            "ID_USUARIO": 26,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 26 - reformado"
+        },
+        {
+            "ID_COMODO": 27,
+            "ID_USUARIO": 27,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 27 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 28,
+            "ID_USUARIO": 28,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 28 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 29,
+            "ID_USUARIO": 29,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 29 - reformado"
+        },
+        {
+            "ID_COMODO": 30,
+            "ID_USUARIO": 30,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 30 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 31,
+            "ID_USUARIO": 31,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 31 - arejado"
+        },
+        {
+            "ID_COMODO": 32,
+            "ID_USUARIO": 32,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 32 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 33,
+            "ID_USUARIO": 33,
+            "NOME_COMODO": "Quarto",
+            "DESCRICAO": "Cômodo 33 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 34,
+            "ID_USUARIO": 34,
+            "NOME_COMODO": "Sala",
+            "DESCRICAO": "Cômodo 34 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 35,
+            "ID_USUARIO": 35,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 35 - reformado"
+        },
+        {
+            "ID_COMODO": 36,
+            "ID_USUARIO": 36,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 36 - reformado"
+        },
+        {
+            "ID_COMODO": 37,
+            "ID_USUARIO": 37,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 37 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 38,
+            "ID_USUARIO": 38,
+            "NOME_COMODO": "Sala",
+            "DESCRICAO": "Cômodo 38 - reformado"
+        },
+        {
+            "ID_COMODO": 39,
+            "ID_USUARIO": 39,
+            "NOME_COMODO": "Sala",
+            "DESCRICAO": "Cômodo 39 - reformado"
+        },
+        {
+            "ID_COMODO": 40,
+            "ID_USUARIO": 40,
+            "NOME_COMODO": "Banheiro",
+            "DESCRICAO": "Cômodo 40 - reformado"
+        },
+        {
+            "ID_COMODO": 41,
+            "ID_USUARIO": 41,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 41 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 42,
+            "ID_USUARIO": 42,
+            "NOME_COMODO": "Sala",
+            "DESCRICAO": "Cômodo 42 - arejado"
+        },
+        {
+            "ID_COMODO": 43,
+            "ID_USUARIO": 43,
+            "NOME_COMODO": "Banheiro",
+            "DESCRICAO": "Cômodo 43 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 44,
+            "ID_USUARIO": 44,
+            "NOME_COMODO": "Varanda",
+            "DESCRICAO": "Cômodo 44 - arejado"
+        },
+        {
+            "ID_COMODO": 45,
+            "ID_USUARIO": 45,
+            "NOME_COMODO": "Banheiro",
+            "DESCRICAO": "Cômodo 45 - arejado"
+        },
+        {
+            "ID_COMODO": 46,
+            "ID_USUARIO": 46,
+            "NOME_COMODO": "Sala",
+            "DESCRICAO": "Cômodo 46 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 47,
+            "ID_USUARIO": 47,
+            "NOME_COMODO": "Banheiro",
+            "DESCRICAO": "Cômodo 47 - com móveis novos"
+        },
+        {
+            "ID_COMODO": 48,
+            "ID_USUARIO": 48,
+            "NOME_COMODO": "Sala",
+            "DESCRICAO": "Cômodo 48 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 49,
+            "ID_USUARIO": 49,
+            "NOME_COMODO": "Cozinha",
+            "DESCRICAO": "Cômodo 49 - bem iluminado"
+        },
+        {
+            "ID_COMODO": 50,
+            "ID_USUARIO": 50,
+            "NOME_COMODO": "Sala",
+            "DESCRICAO": "Cômodo 50 - arejado"
+        }
+    ],
+    "T_PE_ELETRODOMESTICOS": [
+        {
+            "ID_ELETRODOMESTICO": 1,
+            "ID_COMODO": 1,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 1662,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 1 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 2,
+            "ID_COMODO": 2,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 2850,
+            "HORAS_USO_DIA": 7,
+            "DESCRICAO": "Eletrodoméstico 2 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 3,
+            "ID_COMODO": 3,
+            "NOME_ELETRODOMESTICO": "Fogão",
+            "POTENCIA_WATTS": 900,
+            "HORAS_USO_DIA": 5,
+            "DESCRICAO": "Eletrodoméstico 3 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 4,
+            "ID_COMODO": 4,
+            "NOME_ELETRODOMESTICO": "TV",
+            "POTENCIA_WATTS": 1152,
+            "HORAS_USO_DIA": 2,
+            "DESCRICAO": "Eletrodoméstico 4 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 5,
+            "ID_COMODO": 5,
+            "NOME_ELETRODOMESTICO": "Geladeira",
+            "POTENCIA_WATTS": 1427,
+            "HORAS_USO_DIA": 7,
+            "DESCRICAO": "Eletrodoméstico 5 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 6,
+            "ID_COMODO": 6,
+            "NOME_ELETRODOMESTICO": "Microondas",
+            "POTENCIA_WATTS": 2651,
+            "HORAS_USO_DIA": 9,
+            "DESCRICAO": "Eletrodoméstico 6 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 7,
+            "ID_COMODO": 7,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 2257,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 7 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 8,
+            "ID_COMODO": 8,
+            "NOME_ELETRODOMESTICO": "Secador de cabelo",
+            "POTENCIA_WATTS": 1219,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 8 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 9,
+            "ID_COMODO": 9,
+            "NOME_ELETRODOMESTICO": "TV",
+            "POTENCIA_WATTS": 1764,
+            "HORAS_USO_DIA": 4,
+            "DESCRICAO": "Eletrodoméstico 9 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 10,
+            "ID_COMODO": 10,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 2090,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 10 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 11,
+            "ID_COMODO": 11,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 1831,
+            "HORAS_USO_DIA": 4,
+            "DESCRICAO": "Eletrodoméstico 11 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 12,
+            "ID_COMODO": 12,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 2610,
+            "HORAS_USO_DIA": 7,
+            "DESCRICAO": "Eletrodoméstico 12 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 13,
+            "ID_COMODO": 13,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 630,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 13 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 14,
+            "ID_COMODO": 14,
+            "NOME_ELETRODOMESTICO": "Secador de cabelo",
+            "POTENCIA_WATTS": 698,
+            "HORAS_USO_DIA": 2,
+            "DESCRICAO": "Eletrodoméstico 14 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 15,
+            "ID_COMODO": 15,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 2234,
+            "HORAS_USO_DIA": 9,
+            "DESCRICAO": "Eletrodoméstico 15 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 16,
+            "ID_COMODO": 16,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 2224,
+            "HORAS_USO_DIA": 5,
+            "DESCRICAO": "Eletrodoméstico 16 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 17,
+            "ID_COMODO": 17,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 1667,
+            "HORAS_USO_DIA": 10,
+            "DESCRICAO": "Eletrodoméstico 17 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 18,
+            "ID_COMODO": 18,
+            "NOME_ELETRODOMESTICO": "Geladeira",
+            "POTENCIA_WATTS": 2343,
+            "HORAS_USO_DIA": 4,
+            "DESCRICAO": "Eletrodoméstico 18 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 19,
+            "ID_COMODO": 19,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 2850,
+            "HORAS_USO_DIA": 2,
+            "DESCRICAO": "Eletrodoméstico 19 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 20,
+            "ID_COMODO": 20,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 1074,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 20 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 21,
+            "ID_COMODO": 21,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 682,
+            "HORAS_USO_DIA": 3,
+            "DESCRICAO": "Eletrodoméstico 21 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 22,
+            "ID_COMODO": 22,
+            "NOME_ELETRODOMESTICO": "Home Theater",
+            "POTENCIA_WATTS": 2189,
+            "HORAS_USO_DIA": 3,
+            "DESCRICAO": "Eletrodoméstico 22 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 24,
+            "ID_COMODO": 24,
+            "NOME_ELETRODOMESTICO": "Fogão",
+            "POTENCIA_WATTS": 2927,
+            "HORAS_USO_DIA": 8,
+            "DESCRICAO": "Eletrodoméstico 24 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 25,
+            "ID_COMODO": 25,
+            "NOME_ELETRODOMESTICO": "Fogão",
+            "POTENCIA_WATTS": 2870,
+            "HORAS_USO_DIA": 5,
+            "DESCRICAO": "Eletrodoméstico 25 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 26,
+            "ID_COMODO": 26,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 774,
+            "HORAS_USO_DIA": 2,
+            "DESCRICAO": "Eletrodoméstico 26 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 27,
+            "ID_COMODO": 27,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 1680,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 27 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 28,
+            "ID_COMODO": 28,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 1473,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 28 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 29,
+            "ID_COMODO": 29,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 1485,
+            "HORAS_USO_DIA": 3,
+            "DESCRICAO": "Eletrodoméstico 29 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 30,
+            "ID_COMODO": 30,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 1648,
+            "HORAS_USO_DIA": 3,
+            "DESCRICAO": "Eletrodoméstico 30 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 31,
+            "ID_COMODO": 31,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 1701,
+            "HORAS_USO_DIA": 9,
+            "DESCRICAO": "Eletrodoméstico 31 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 32,
+            "ID_COMODO": 32,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 2696,
+            "HORAS_USO_DIA": 6,
+            "DESCRICAO": "Eletrodoméstico 32 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 33,
+            "ID_COMODO": 33,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 1350,
+            "HORAS_USO_DIA": 7,
+            "DESCRICAO": "Eletrodoméstico 33 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 34,
+            "ID_COMODO": 34,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 916,
+            "HORAS_USO_DIA": 1,
+            "DESCRICAO": "Eletrodoméstico 34 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 35,
+            "ID_COMODO": 35,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 1190,
+            "HORAS_USO_DIA": 2,
+            "DESCRICAO": "Eletrodoméstico 35 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 36,
+            "ID_COMODO": 36,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 953,
+            "HORAS_USO_DIA": 9,
+            "DESCRICAO": "Eletrodoméstico 36 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 37,
+            "ID_COMODO": 37,
+            "NOME_ELETRODOMESTICO": "Home Theater",
+            "POTENCIA_WATTS": 1595,
+            "HORAS_USO_DIA": 5,
+            "DESCRICAO": "Eletrodoméstico 37 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 38,
+            "ID_COMODO": 38,
+            "NOME_ELETRODOMESTICO": "Ar-condicionado",
+            "POTENCIA_WATTS": 1427,
+            "HORAS_USO_DIA": 4,
+            "DESCRICAO": "Eletrodoméstico 38 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 39,
+            "ID_COMODO": 39,
+            "NOME_ELETRODOMESTICO": "Secador de cabelo",
+            "POTENCIA_WATTS": 2031,
+            "HORAS_USO_DIA": 10,
+            "DESCRICAO": "Eletrodoméstico 39 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 40,
+            "ID_COMODO": 40,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 685,
+            "HORAS_USO_DIA": 10,
+            "DESCRICAO": "Eletrodoméstico 40 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 41,
+            "ID_COMODO": 41,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 2081,
+            "HORAS_USO_DIA": 10,
+            "DESCRICAO": "Eletrodoméstico 41 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 42,
+            "ID_COMODO": 42,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 1796,
+            "HORAS_USO_DIA": 4,
+            "DESCRICAO": "Eletrodoméstico 42 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 43,
+            "ID_COMODO": 43,
+            "NOME_ELETRODOMESTICO": "TV",
+            "POTENCIA_WATTS": 1229,
+            "HORAS_USO_DIA": 6,
+            "DESCRICAO": "Eletrodoméstico 43 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 44,
+            "ID_COMODO": 44,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 2082,
+            "HORAS_USO_DIA": 6,
+            "DESCRICAO": "Eletrodoméstico 44 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 45,
+            "ID_COMODO": 45,
+            "NOME_ELETRODOMESTICO": "Ventilador",
+            "POTENCIA_WATTS": 2293,
+            "HORAS_USO_DIA": 2,
+            "DESCRICAO": "Eletrodoméstico 45 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 46,
+            "ID_COMODO": 46,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 2585,
+            "HORAS_USO_DIA": 3,
+            "DESCRICAO": "Eletrodoméstico 46 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 47,
+            "ID_COMODO": 47,
+            "NOME_ELETRODOMESTICO": "Geladeira",
+            "POTENCIA_WATTS": 729,
+            "HORAS_USO_DIA": 7,
+            "DESCRICAO": "Eletrodoméstico 47 - de última geração"
+        },
+        {
+            "ID_ELETRODOMESTICO": 48,
+            "ID_COMODO": 48,
+            "NOME_ELETRODOMESTICO": "Geladeira",
+            "POTENCIA_WATTS": 2112,
+            "HORAS_USO_DIA": 4,
+            "DESCRICAO": "Eletrodoméstico 48 - usado"
+        },
+        {
+            "ID_ELETRODOMESTICO": 49,
+            "ID_COMODO": 49,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 1757,
+            "HORAS_USO_DIA": 8,
+            "DESCRICAO": "Eletrodoméstico 49 - novo"
+        },
+        {
+            "ID_ELETRODOMESTICO": 50,
+            "ID_COMODO": 50,
+            "NOME_ELETRODOMESTICO": "Lâmpada",
+            "POTENCIA_WATTS": 666,
+            "HORAS_USO_DIA": 10,
+            "DESCRICAO": "Eletrodoméstico 50 - de última geração"
+        }
+    ],
+    "T_PE_CONSUMO_MENSAL": [
+        {
+            "ID_CONSUMO_MENSAL": 1,
+            "ID_USUARIO": 1,
+            "MES_REFERENCIA": "2024-02-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 540.99
+        },
+        {
+            "ID_CONSUMO_MENSAL": 2,
+            "ID_USUARIO": 2,
+            "MES_REFERENCIA": "2024-03-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 414.3
+        },
+        {
+            "ID_CONSUMO_MENSAL": 3,
+            "ID_USUARIO": 3,
+            "MES_REFERENCIA": "2024-04-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 668.66
+        },
+        {
+            "ID_CONSUMO_MENSAL": 4,
+            "ID_USUARIO": 4,
+            "MES_REFERENCIA": "2024-05-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 932.57
+        },
+        {
+            "ID_CONSUMO_MENSAL": 5,
+            "ID_USUARIO": 5,
+            "MES_REFERENCIA": "2024-06-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 284.18
+        },
+        {
+            "ID_CONSUMO_MENSAL": 6,
+            "ID_USUARIO": 6,
+            "MES_REFERENCIA": "2024-07-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 281.02
+        },
+        {
+            "ID_CONSUMO_MENSAL": 7,
+            "ID_USUARIO": 7,
+            "MES_REFERENCIA": "2024-08-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 111.64
+        },
+        {
+            "ID_CONSUMO_MENSAL": 8,
+            "ID_USUARIO": 8,
+            "MES_REFERENCIA": "2024-09-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 821.23
+        },
+        {
+            "ID_CONSUMO_MENSAL": 12,
+            "ID_USUARIO": 12,
+            "MES_REFERENCIA": "2024-01-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 189.15
+        },
+        {
+            "ID_CONSUMO_MENSAL": 13,
+            "ID_USUARIO": 13,
+            "MES_REFERENCIA": "2024-02-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 822.75
+        },
+        {
+            "ID_CONSUMO_MENSAL": 14,
+            "ID_USUARIO": 14,
+            "MES_REFERENCIA": "2024-03-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 817.75
+        },
+        {
+            "ID_CONSUMO_MENSAL": 15,
+            "ID_USUARIO": 15,
+            "MES_REFERENCIA": "2024-04-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 817.24
+        },
+        {
+            "ID_CONSUMO_MENSAL": 16,
+            "ID_USUARIO": 16,
+            "MES_REFERENCIA": "2024-05-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 357.61
+        },
+        {
+            "ID_CONSUMO_MENSAL": 17,
+            "ID_USUARIO": 17,
+            "MES_REFERENCIA": "2024-06-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 212.86
+        },
+        {
+            "ID_CONSUMO_MENSAL": 18,
+            "ID_USUARIO": 18,
+            "MES_REFERENCIA": "2024-07-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 129.83
+        },
+        {
+            "ID_CONSUMO_MENSAL": 19,
+            "ID_USUARIO": 19,
+            "MES_REFERENCIA": "2024-08-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 406.14
+        },
+        {
+            "ID_CONSUMO_MENSAL": 20,
+            "ID_USUARIO": 20,
+            "MES_REFERENCIA": "2024-09-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 861.75
+        },
+        {
+            "ID_CONSUMO_MENSAL": 24,
+            "ID_USUARIO": 24,
+            "MES_REFERENCIA": "2024-01-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 737.86
+        },
+        {
+            "ID_CONSUMO_MENSAL": 25,
+            "ID_USUARIO": 25,
+            "MES_REFERENCIA": "2024-02-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 592.8
+        },
+        {
+            "ID_CONSUMO_MENSAL": 26,
+            "ID_USUARIO": 26,
+            "MES_REFERENCIA": "2024-03-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 832.38
+        },
+        {
+            "ID_CONSUMO_MENSAL": 27,
+            "ID_USUARIO": 27,
+            "MES_REFERENCIA": "2024-04-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 562
+        },
+        {
+            "ID_CONSUMO_MENSAL": 28,
+            "ID_USUARIO": 28,
+            "MES_REFERENCIA": "2024-05-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 597.24
+        },
+        {
+            "ID_CONSUMO_MENSAL": 29,
+            "ID_USUARIO": 29,
+            "MES_REFERENCIA": "2024-06-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 351.44
+        },
+        {
+            "ID_CONSUMO_MENSAL": 30,
+            "ID_USUARIO": 30,
+            "MES_REFERENCIA": "2024-07-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 871.07
+        },
+        {
+            "ID_CONSUMO_MENSAL": 31,
+            "ID_USUARIO": 31,
+            "MES_REFERENCIA": "2024-08-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 664.01
+        },
+        {
+            "ID_CONSUMO_MENSAL": 32,
+            "ID_USUARIO": 32,
+            "MES_REFERENCIA": "2024-09-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 652.8
+        },
+        {
+            "ID_CONSUMO_MENSAL": 36,
+            "ID_USUARIO": 36,
+            "MES_REFERENCIA": "2024-01-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 127.68
+        },
+        {
+            "ID_CONSUMO_MENSAL": 37,
+            "ID_USUARIO": 37,
+            "MES_REFERENCIA": "2024-02-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 785.33
+        },
+        {
+            "ID_CONSUMO_MENSAL": 38,
+            "ID_USUARIO": 38,
+            "MES_REFERENCIA": "2024-03-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 649.51
+        },
+        {
+            "ID_CONSUMO_MENSAL": 39,
+            "ID_USUARIO": 39,
+            "MES_REFERENCIA": "2024-04-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 785.77
+        },
+        {
+            "ID_CONSUMO_MENSAL": 40,
+            "ID_USUARIO": 40,
+            "MES_REFERENCIA": "2024-05-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 451.27
+        },
+        {
+            "ID_CONSUMO_MENSAL": 41,
+            "ID_USUARIO": 41,
+            "MES_REFERENCIA": "2024-06-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 964.77
+        },
+        {
+            "ID_CONSUMO_MENSAL": 42,
+            "ID_USUARIO": 42,
+            "MES_REFERENCIA": "2024-07-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 207.96
+        },
+        {
+            "ID_CONSUMO_MENSAL": 43,
+            "ID_USUARIO": 43,
+            "MES_REFERENCIA": "2024-08-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 624.94
+        },
+        {
+            "ID_CONSUMO_MENSAL": 44,
+            "ID_USUARIO": 44,
+            "MES_REFERENCIA": "2024-09-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 565.95
+        },
+        {
+            "ID_CONSUMO_MENSAL": 48,
+            "ID_USUARIO": 48,
+            "MES_REFERENCIA": "2024-01-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 646.88
+        },
+        {
+            "ID_CONSUMO_MENSAL": 49,
+            "ID_USUARIO": 49,
+            "MES_REFERENCIA": "2024-02-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 375.14
+        },
+        {
+            "ID_CONSUMO_MENSAL": 50,
+            "ID_USUARIO": 50,
+            "MES_REFERENCIA": "2024-03-01 00:00:00",
+            "CONSUMO_MENSAL_KWH": 825.94
+        }
+    ],
+    "T_PE_PONTUACAO_USUARIO": [
+        {
+            "ID_PONTUACAO": 1,
+            "ID_USUARIO": 1,
+            "PONTOS_TOTAIS": 95,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 2,
+            "ID_USUARIO": 2,
+            "PONTOS_TOTAIS": 16,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 3,
+            "ID_USUARIO": 3,
+            "PONTOS_TOTAIS": 35,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 4,
+            "ID_USUARIO": 4,
+            "PONTOS_TOTAIS": 10,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 5,
+            "ID_USUARIO": 5,
+            "PONTOS_TOTAIS": 77,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 6,
+            "ID_USUARIO": 6,
+            "PONTOS_TOTAIS": 22,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 7,
+            "ID_USUARIO": 7,
+            "PONTOS_TOTAIS": 37,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 8,
+            "ID_USUARIO": 8,
+            "PONTOS_TOTAIS": 70,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 9,
+            "ID_USUARIO": 9,
+            "PONTOS_TOTAIS": 16,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 10,
+            "ID_USUARIO": 10,
+            "PONTOS_TOTAIS": 61,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 11,
+            "ID_USUARIO": 11,
+            "PONTOS_TOTAIS": 24,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 12,
+            "ID_USUARIO": 12,
+            "PONTOS_TOTAIS": 63,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 13,
+            "ID_USUARIO": 13,
+            "PONTOS_TOTAIS": 88,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 14,
+            "ID_USUARIO": 14,
+            "PONTOS_TOTAIS": 55,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 15,
+            "ID_USUARIO": 15,
+            "PONTOS_TOTAIS": 75,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 16,
+            "ID_USUARIO": 16,
+            "PONTOS_TOTAIS": 19,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 17,
+            "ID_USUARIO": 17,
+            "PONTOS_TOTAIS": 32,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 18,
+            "ID_USUARIO": 18,
+            "PONTOS_TOTAIS": 53,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 19,
+            "ID_USUARIO": 19,
+            "PONTOS_TOTAIS": 96,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 20,
+            "ID_USUARIO": 20,
+            "PONTOS_TOTAIS": 13,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 21,
+            "ID_USUARIO": 21,
+            "PONTOS_TOTAIS": 61,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 22,
+            "ID_USUARIO": 22,
+            "PONTOS_TOTAIS": 48,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 24,
+            "ID_USUARIO": 24,
+            "PONTOS_TOTAIS": 54,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 25,
+            "ID_USUARIO": 25,
+            "PONTOS_TOTAIS": 27,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 26,
+            "ID_USUARIO": 26,
+            "PONTOS_TOTAIS": 10,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 27,
+            "ID_USUARIO": 27,
+            "PONTOS_TOTAIS": 27,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 28,
+            "ID_USUARIO": 28,
+            "PONTOS_TOTAIS": 92,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 29,
+            "ID_USUARIO": 29,
+            "PONTOS_TOTAIS": 13,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 30,
+            "ID_USUARIO": 30,
+            "PONTOS_TOTAIS": 74,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 31,
+            "ID_USUARIO": 31,
+            "PONTOS_TOTAIS": 91,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 32,
+            "ID_USUARIO": 32,
+            "PONTOS_TOTAIS": 32,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 33,
+            "ID_USUARIO": 33,
+            "PONTOS_TOTAIS": 79,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 34,
+            "ID_USUARIO": 34,
+            "PONTOS_TOTAIS": 98,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 35,
+            "ID_USUARIO": 35,
+            "PONTOS_TOTAIS": 78,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 36,
+            "ID_USUARIO": 36,
+            "PONTOS_TOTAIS": 49,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 37,
+            "ID_USUARIO": 37,
+            "PONTOS_TOTAIS": 78,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 38,
+            "ID_USUARIO": 38,
+            "PONTOS_TOTAIS": 17,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 39,
+            "ID_USUARIO": 39,
+            "PONTOS_TOTAIS": 71,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 40,
+            "ID_USUARIO": 40,
+            "PONTOS_TOTAIS": 27,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 41,
+            "ID_USUARIO": 41,
+            "PONTOS_TOTAIS": 32,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 42,
+            "ID_USUARIO": 42,
+            "PONTOS_TOTAIS": 87,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 43,
+            "ID_USUARIO": 43,
+            "PONTOS_TOTAIS": 49,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 44,
+            "ID_USUARIO": 44,
+            "PONTOS_TOTAIS": 88,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 45,
+            "ID_USUARIO": 45,
+            "PONTOS_TOTAIS": 71,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 46,
+            "ID_USUARIO": 46,
+            "PONTOS_TOTAIS": 85,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 47,
+            "ID_USUARIO": 47,
+            "PONTOS_TOTAIS": 67,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 48,
+            "ID_USUARIO": 48,
+            "PONTOS_TOTAIS": 25,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 49,
+            "ID_USUARIO": 49,
+            "PONTOS_TOTAIS": 83,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        },
+        {
+            "ID_PONTUACAO": 50,
+            "ID_USUARIO": 50,
+            "PONTOS_TOTAIS": 73,
+            "DATA_ATUALIZACAO": "2024-11-20 00:00:00"
+        }
+    ]
+}
