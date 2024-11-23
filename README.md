@@ -85,5 +85,6 @@ O dataset utilizado contém as seguintes colunas:
 ## Conclusão
 
 Este projeto apresenta uma solução prática e visual para entender o consumo de energia elétrica de eletrodomésticos. Com gráficos interativos e um terminal intuitivo, ele oferece uma experiência completa para análise e categorização de dados, auxiliando na tomada de decisões para economia de energia.
+Com isso tudo criei um modelo de classificação, o qual foi necessário realizar passo a passo utilizando as funcionalidades acima.
 
 ---
