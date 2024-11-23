@@ -6,7 +6,7 @@
 - Vitor Cruz dos Santos RM 553621
 
 ## Link do vídeo:
-- [Adicionar link do vídeo aqui, se houver]
+- https://youtu.be/O9v1EJwBFTM
 
 Este projeto tem como objetivo analisar o consumo mensal de energia elétrica de eletrodomésticos, identificar padrões de eficiência e apresentar visualizações interativas para facilitar a tomada de decisões.
 
