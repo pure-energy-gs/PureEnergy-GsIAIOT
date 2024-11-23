@@ -78,10 +78,7 @@ O dataset utilizado contém as seguintes colunas:
 
 1. **Gráfico de Pizza**:
    - Distribuição de eletrodomésticos por categoria de consumo.
-2. **Gráfico de Barras**:
-   - Comparação entre categorias de consumo por potência média.
-3. **Gráfico de Dispersão**:
-   - Correlação entre consumo mensal e potência dos eletrodomésticos.
+
 
 ---
 
